@@ -1,0 +1,17 @@
+# Ignore node_modules everywhere
+node_modules/
+/**/node_modules/
+
+# Ignore dist folders
+**/dist/
+**/test/
+
+# Ignore .env files (nếu bạn có sử dụng)
+**/.env
+
+# Ignore logs
+*.log
+
+# Ignore IDE specific files
+.vscode/
+.idea/
