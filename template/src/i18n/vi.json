@@ -1,8 +1,0 @@
-{
-  "ERROR_INTERNAL": "Lỗi máy chủ nội bộ",
-  "ERROR_NOT_FOUND": "Tài nguyên không tìm thấy",
-  "ERROR_UNAUTHORIZED": "Truy cập không được phép",
-  "ERROR_FORBIDDEN": "Truy cập bị cấm",
-  "ERROR_BAD_REQUEST": "Yêu cầu không hợp lệ",
-  "SUCCESS_OPERATION": "Hoạt động hoàn tất thành công"
-}
